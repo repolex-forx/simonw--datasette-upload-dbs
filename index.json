@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-upload-dbs",
+  "versions": [
+    {
+      "commit": "563cb7896255690c67f898a604f7d53002a26cfd",
+      "tag": "0.5a0",
+      "parsed_at": "2026-10-20T10:04:26.285884+00:00"
+    }
+  ]
+}

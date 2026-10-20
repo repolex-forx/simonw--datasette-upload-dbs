@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-upload-dbs/commit/563cb7896255690c67f898a604f7d53002a26cfd",
       "git:hexsha": "563cb7896255690c67f898a604f7d53002a26cfd",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.5a0"
     },
     {
